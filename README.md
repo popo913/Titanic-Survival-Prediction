@@ -1,5 +1,5 @@
 # Titanic-Survival-Prediction
-It is a project aiming to create a machine learning model that is trained to accurately predict whether a passenger survived the titanic disaster.The dataset used is the Titanic dataset ("https://www.kaggle.com/datasets/brendan45774/test-file"). 
+It is a project aiming to create a machine learning model that is trained to accurately predict whether a passenger survived the titanic disaster.The dataset used is the <a href = "https://www.kaggle.com/datasets/brendan45774/test-file">"Titanic dataset"</a>. 
 The datset contains features like age,gender,ticket class,fare,cabin information etc. 
 The model is capable of handling missing values and encode categorical variables and normalize data effectively.</br>
 <h2>TASK OBJECTIVES</h2><hr>
