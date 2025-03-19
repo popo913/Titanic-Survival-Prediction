@@ -9,7 +9,7 @@ The model is capable of handling missing values and encode categorical variables
 • Evaluate model performance using accuracy, precision, etc.</br>
 • Expected outcome: A well-trained classification model with strong survival prediction accuracy.</br>
 <h2>STEPS TO RUN THE PROJECT</h2><hr>
-•Install the required libraries and extensions sucha as pandas etc.</br>
+<ol>•Install the required libraries and extensions sucha as pandas etc.</br>
 •Prepare the dataset i.e titanic dataset , find the path and documentation of the dataset. We then determine features of the dataset. I used Google Colab for making the project so i uploaded the downloaded dataset "tested.csv" onto Google Colab.</br>
 •Code the needed program to train the model and then rum the script.</br>
 •If the code is correct ,data is properly loaded then we expect the following:</br>
@@ -18,6 +18,7 @@ The model is capable of handling missing values and encode categorical variables
   <li>Training therandom model on the dataset</li>
   <li>Display perfomance metrics like accuracy,F1 score etc</li>
   <li>Save the trained model.</li>
+</ol>
 </ol>
 
 
