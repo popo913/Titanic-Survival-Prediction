@@ -31,7 +31,6 @@ The model is capable of handling missing values and encode categorical variables
   <li>Saved the trained model & scaler for future predictions, enabling real-world deployment.</li>
   <li>Evaluated the model using multiple metrics (accuracy, precision, recall, F1-score) for a balanced assessment instead of relying only on accuracy.</li>
 </ol>
-</br>
 <h2>DOCUMENTATION</h2>
 <ol>
   <li>Code is structured into functions for loading data, preprocessing, training, and saving the model, making it easy to understand.</li>
