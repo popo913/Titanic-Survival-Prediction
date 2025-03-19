@@ -20,5 +20,23 @@ The model is capable of handling missing values and encode categorical variables
   <li>Save the trained model.</li>
 </ol>
 </ol>
+<h2>INNOVATION AND CREATIVITY</h2>
+<ol>
+  <li>Implemented automated data preprocessing, handling missing values and encoding categorical data efficiently.</li>
+  <li>Used feature engineering (one-hot encoding for Embarked, label encoding for Sex, and scaling for Age & Fare) to improve model performance.</li>
+  <li>Ensured a modular code structure, making it reusable and easy to extend with other models like Logistic Regression or XGBoost.
+</li>
+  <li>Saved the trained model & scaler for future predictions, enabling real-world deployment.</li>
+  <li>Evaluated the model using multiple metrics (accuracy, precision, recall, F1-score) for a balanced assessment instead of relying only on accuracy.</li>
+</ol>
+</br>
+<h2>DOCUMENTATION</h2>
+<ol>
+  <li>Code is structured into functions for loading data, preprocessing, training, and saving the model, making it easy to understand.</li>
+  <li>Added error handling to avoid crashes due to missing files or incorrect data.
+</li>
+  <li>Explained all key steps (preprocessing, training, evaluation) in the code with comments.</li>
+  <li>Outputs clear logs for accuracy and model performance, helping with debugging and improvements.</li>
+</ol>
 
 
